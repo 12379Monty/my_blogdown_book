@@ -1,0 +1,5 @@
+[build]
+publish = "public"
+command = "hugo" # Example for a Hugo site
+
+  ## more info on configuring this file: https://ntl.fyi/file-based-build-config
