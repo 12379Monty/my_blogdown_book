@@ -1,6 +1,7 @@
 ---
-title: "blogdown: Creating Websites with R Markdown"
-author: "Yihui Xie, Amber Thomas, Alison Presmanes Hill"
+title: "my blogdown book: extracted fron the originak by the authors"
+subtitle: "Authors: Yihui Xie, Amber Thomas, Alison Presmanes Hill"
+author: "Stat Student"
 date: "`r Sys.Date()`"
 documentclass: krantz
 bibliography: [book.bib, packages.bib]
@@ -12,9 +13,9 @@ lot: yes
 lof: yes
 fontsize: 12pt
 site: bookdown::bookdown_site
-description: "A guide to creating websites with R Markdown and the R package blogdown."
+description: "A streamlined guide to creating websites with R Markdown and the R package blogdown."
 url: 'https\://bookdown.org/yihui/blogdown/'
-github-repo: rstudio/blogdown
+formatRgithub-repo: rstudio/blogdown
 cover-image: images/cover.png
 ---
 
@@ -46,6 +47,11 @@ options(bookdown.post.latex = function(x) {
 
 # Preface {-}
 
+**See original at https://bookdown.org/yihui/blogdown/**
+
+
+
+<!-- STOP HERE
 ```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://www.crcpress.com/p/book/9780815363729', out.width='50%'}
 knitr::include_graphics('images/cover.png', dpi = NA)
 ```
@@ -134,3 +140,5 @@ This is the third book I have published with my editor at Chapman & Hall/CRC, Jo
 Yihui Xie  
 Elkhorn, Nebraska
 ```
+
+-->
